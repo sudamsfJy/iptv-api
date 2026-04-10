@@ -10,6 +10,9 @@ name: 'Update schedule'
 # If scheduled execution is required, use other deployment methods.
 
 on:
+  schedule:
+    # 协调世界时 (UTC) 每天 00:00 触发，步进为 3 天
+    - cron: '0 0 */3 * *'
   workflow_dispatch:
 
 jobs:
