@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-01 11:25:19,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-08-04 10:59:01,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -410,6 +410,7 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 新动漫,https://iptv.catvod.com/migu?id=961930269&token=15662cd8a905862040da923ead3ffb8f
 新动漫,https://iptv.catvod.com/migu?id=961930269&token=38a659ad0947ea63cd0cb7e47c0f455b
 新动漫,https://iptv.catvod.com/migu?id=961930269&token=2972385370d8622174482e12bd926b86
+新动漫,https://iptv.catvod.com/migu?id=961930269&token=f47a53e10f814dac8bd1d73881ee920e
 爱动漫,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630
 爱动漫,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000059/index.m3u8
 爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8
