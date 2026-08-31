@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-28 18:40:09,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-08-31 12:48:46,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -123,6 +123,7 @@ CETV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
 风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
 风云音乐,http://www.qfly9236.cn:8888/rtp/239.253.92.111:8060
+风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/index.m3u8
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 第一剧场,https://hls-gateway.vpstv.net/streams/708862.m3u8
 第一剧场,http://tl.061833.xyz/tl/null-6
@@ -132,10 +133,12 @@ CETV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 风云剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNJC-CQ
 风云剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.22:6073
 风云剧场,https://gd202.tv1288.xyz/tsfile/live/1049_1.m3u8
+风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/index.m3u8
 怀旧剧场,https://hls-gateway.vpstv.net/streams/708853.m3u8
 怀旧剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_HUAIJIUJC-CQ
 怀旧剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.98:6120
 怀旧剧场,https://gd202.tv1288.xyz/tsfile/live/1048_1.m3u8
+怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/index.m3u8
 女性时尚,http://iptv.666230.xyz/iptv/jsyd.php/G_NVXINGSS-CQ
 女性时尚,http://www.qfly9236.cn:8888/rtp/239.253.92.249:6103
 高尔夫网球,https://hls-gateway.vpstv.net/streams/708857.m3u8
@@ -149,6 +152,7 @@ CETV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 电视指南,http://iptv.666230.xyz/iptv/jsyd.php/G_DIANSHIZN-CQ
 兵器科技,https://hls-gateway.vpstv.net/streams/708856.m3u8
 兵器科技,http://iptv.666230.xyz/iptv/jsyd.php/G_BINGQIKJ-CQ
+兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/index.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
